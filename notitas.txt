@@ -1,0 +1,18 @@
+﻿bskpeqpeqvmk
+
+cd Users\HP\Desktop\Sabmarin\Dev\www\mypets\public\css\front
+
+@include transition(all 0.1s ease-in-out);
+@include border-radius(3px);
+
+sass --watch style.scss:style.css --style compressed
+sass --watch style.scss:style.css --style expanded
+
+"museo-sans-condensed"
+"museo-sans-rounded"
+
+destacadoPosicion1
+
+onClick="_gaq.push([ '_trackEvent', 'Opalala', 'click', 'BannerPro']);"
+
+🐾 TEXTO → http://bit.ly/MyPets-GatoBarca 🐶 🐱
