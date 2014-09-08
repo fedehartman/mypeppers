@@ -2,14 +2,14 @@
 
 git clone pets@162.243.244.86:mypets.git
 
-cd Users\HP\Desktop\Sabmarin\Dev\www\mypets\public\css\front
-cd Neptune\dev\www\MyPets\mypets\public\css\front
-
-@include transition(all 0.1s ease-in-out);
-@include border-radius(3px);
+cd Users\HP\Desktop\Sabmarin\Dev\www\mypets\public\css\front\desk
+cd Neptune\dev\www\MyPets\mypets\public\css\front\desk
 
 sass --watch style.scss:style.css --style compressed
 sass --watch style.scss:style.css --style expanded
+
+@include transition(all 0.1s ease-in-out);
+@include border-radius(3px);
 
 "museo-sans-condensed"
 "museo-sans-rounded"
@@ -18,8 +18,10 @@ destacadoPosicion1
 
 onClick="_gaq.push([ '_trackEvent', 'Opalala', 'click', 'BannerPro']);"
 
-🐾 TEXTO → http://bit.ly/MyPets-VidaPerros 🐱
+🐾 En la entrevista de la semana: Florencia Infante y su perro Muzzarella → http://bit.ly/1pHfQsn 🐱
 
 #MyPets #dog #puppy #pup #cute #instagood #dogs_of_instagram #pet #pets #animal #animals #petstagram #petsagram #photooftheday #dogsofinstagram #ilovemydog #instagramdogs #nature #dogstagram #dogoftheday #lovedogs #lovepuppies #hound #adorable #doglover #instapuppy #instadog
 
 #MyPets #cat #cats #catsagram #catstagram #instagood #kitten #kitty #kittens #pet #pets #animal #animals #petstagram #petsagram #photooftheday #catsofinstagram #ilovemycat #instagramcats #nature #catoftheday #lovecats #furry #sleeping #lovekittens #adorable #catlover #instacat
+
+Pablo “Ruso” Sehabiaga
