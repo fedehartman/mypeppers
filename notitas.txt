@@ -18,7 +18,7 @@ destacadoPosicion1
 
 onClick="_gaq.push([ '_trackEvent', 'Opalala', 'click', 'BannerPro']);"
 
-🐾 En la entrevista de la semana: Florencia Infante y su perro Muzzarella → http://bit.ly/1pHfQsn 🐱
+🐾 Finita pero mojda → http://bit.ly/1Bq0DEL 🐱
 
 #MyPets #dog #puppy #pup #cute #instagood #dogs_of_instagram #pet #pets #animal #animals #petstagram #petsagram #photooftheday #dogsofinstagram #ilovemydog #instagramdogs #nature #dogstagram #dogoftheday #lovedogs #lovepuppies #hound #adorable #doglover #instapuppy #instadog
 
