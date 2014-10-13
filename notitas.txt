@@ -1,17 +1,6 @@
 ﻿bskpeqpeqvmk
 
-🐾 El Ruso te responde → http://bit.ly/1vJ8Hge 🐯 🐨 🐻 #SemanaAnimal #MyPets
-
-#SemanaAnimalEnMyPets
-
-Gatos:
-🐱 🐈
-
-Perros:
-🐶 🐕
-
-GatoPerro:
-🐶 🐱
+🐾 El Ruso te responde → http://bit.ly/1v4mX5b 🐶 🐱
 
 git clone pets@162.243.244.86:mypets.git
 
@@ -27,21 +16,70 @@ sass --watch style.scss:style.css --style expanded
 "museo-sans-condensed"
 "museo-sans-rounded"
 
-destacadoPosicion1
-
-onClick="_gaq.push([ '_trackEvent', 'Opalala', 'click', 'BannerPro']);"
-
-#MyPets #dog #puppy #pup #cute #instagood #dogs_of_instagram #pet #pets #animal #animals #petstagram #petsagram #photooftheday #dogsofinstagram #ilovemydog #instagramdogs #nature #dogstagram #dogoftheday #lovedogs #lovepuppies #hound #adorable #doglover #instapuppy #instadog
-
-#MyPets #cat #cats #catsagram #catstagram #instagood #kitten #kitty #kittens #pet #pets #animal #animals #petstagram #petsagram #photooftheday #catsofinstagram #ilovemycat #instagramcats #nature #catoftheday #lovecats #furry #sleeping #lovekittens #adorable #catlover #instacat
-
 Pablo “Ruso” Sehabiaga
 
+El Ruso te responde: ¿Se pueden bañar los cachorros? Dale clic en la foto para ver qué nos responde. Compartilo así todos aprendemos más y si tenés alguna pregunta para nuestro Dr. Veterinario Pablo “Ruso” Sehabiaga, dejala en los comentarios.
 
-→ Episodio 1: http://bit.ly/MyPets-EpicFail01
-→ Episodio 2: http://bit.ly/MyPets-EpicFails2
-→ Episodio 3: http://bit.ly/1qtPLCi
-→ Episodio 4: http://bit.ly/1D0DWIX
-→ Episodio 5: http://bit.ly/1D0DWIX
+Enterate qué responde nuestro doctor veterinario Pablo “Ruso” Sehabiaga.
 
-El Ruso te responde: ¿Cuánto ejercicio debe hacer mi perro? Dale clic en la foto para ver qué nos responde. Compartilo así todos aprendemos más y si tenés alguna pregunta para nuestro Dr. Veterinario Pablo “Ruso” Sehabiaga, dejala en los comentarios.
+Lunes 13.
+· 10:00 - Foto: Qué hay de nuevo viejo.
+· 14:00 - Entrevista. Alfonsina.
+· 16:30 - Ruso Contesta: ¿Cuánto dura el celo en las perras?
+· 20:30 - Sorteo.
+· 22:00 - Video: 
+
+Martes 14.
+· 10:00 - Foto: 
+· 13:00 - Top5: 
+· 16:30 - Ruso Contesta: ¿Qué hacer cuando me mudo con mi gato?
+· 22:00 - Video: 
+
+Miércoles 15.
+· 10:00 - Foto: 
+· 13:00 - Columna Ruso: 
+· 16:30 - Ruso Contesta: ¿Cómo saber si mi cachorro está enfermo?
+· 20:30 - Sorteo.
+· 22:00 - Video: 
+
+Jueves 15.
+· 10:00 - Foto: 
+· 16:30 - Ruso Contesta: Cuánto ejercicio puede hacer mi perro
+· 22:00 - Video: 
+
+Viernes 16.
+· 10:00 - Foto: 
+· 13:00 - Epic: 
+· 20:30 - Sorteo.
+
+* * *
+
+Lunes 20.
+· 10:00 - Foto: 
+· 14:00 - Entrevista:  
+· 16:30 - Ruso Contesta: ¿Cómo hacer para que mi gato no use las macetas de baño?
+· 20:30 - Sorteo.
+· 22:00 - Video: 
+
+Martes 21.
+· 10:00 - Foto: 
+· 13:00 - Top5: 
+· 16:30 - Ruso Contesta: ¿Qué significa la nariz seca en el perro? 
+· 22:00 - Video: 
+
+Miércoles 22.
+· 10:00 - Foto: 
+· 13:00 - Columna Ruso: ¿Los gatos se bañan?
+· 16:30 - Ruso Contesta: 
+· 20:30 - Sorteo.
+· 22:00 - Video: 
+
+Jueves 23.
+· 10:00 - Foto: 
+· 16:30 - Ruso Contesta: ¿Se pueden bañar los cachorros?
+· 22:00 - Video: 
+
+Viernes 24.
+· 10:00 - Foto: 
+· 13:00 - Epic: 
+· 20:30 - Sorteo.
